@@ -1,0 +1,771 @@
+{
+  "platform": "arcade",
+  "images": [
+    {
+      "name": "1941 - 反击战 (900227 World)",
+      "rom_sha256": "b5bbf04f267385f0b19c46dfd658226a3289a448dc9a21e035af338232fb53a1",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/1941%20-%20Counter%20Attack%20(900227%20USA).png",
+      "file": "53b0c78c8565549f75a52d2e.png",
+      "downloaded": true,
+      "sha256": "d19cb4d73c9b43b5f52f8b22e4ff85bd085578b943f454b797fc82484aece010",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/53b0c78c8565549f75a52d2e.png"
+    },
+    {
+      "name": "1944 - 征服世界 (000620 USA)",
+      "rom_sha256": "85a539f4bf7ff8167a493522601f054ab21b1cf7df15f0c6dbb4ea117c2554f4",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/1944%20-%20the%20loop%20master%20(000620%20USA).png",
+      "file": "0c0e1a63b41ba151f3c90063.png",
+      "downloaded": true,
+      "sha256": "eb567cf53b817699730571b1df44209a62d1122af4448168c53f136c71830fb1",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0c0e1a63b41ba151f3c90063.png"
+    },
+    {
+      "name": "19XX - 命运否决战 (951207 USA)",
+      "rom_sha256": "d4d6a232ba574115842ab5716e00ec7960f31671fb413b8d3960b5c859d20cba",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/19XX%20-%20the%20war%20against%20destiny%20(951207%20USA).png",
+      "file": "3ed60d7f8c2133a51fd6089d.png",
+      "downloaded": true,
+      "sha256": "33c66b4d3c1141f022dc6a40f7e1e94e5338349ee854e3f452a5ba1e670c6994",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3ed60d7f8c2133a51fd6089d.png"
+    },
+    {
+      "name": "三个奇迹 (wonder 3 910520 etc)",
+      "rom_sha256": "f34be967aa40d95b3be9b6582f8dfed73b4492bd609339d7b93c6d3979c4880c",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Three%20Wonders%20(USA%20910520).png",
+      "file": "b429870b446d9114c3aa67e5.png",
+      "downloaded": true,
+      "sha256": "6b1bf0963cb939dc0e0f078a1f548ffb098ad9a991853c764d11fe310bd3261b",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/b429870b446d9114c3aa67e5.png"
+    },
+    {
+      "name": "机甲勇士 (941024 Europe)",
+      "rom_sha256": "e90cd1da2dccf3382a0aedc7e79d7f1778fcbb65537c1d3350c156588319e6f9",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Armored%20Warriors%20(940920%20USA).png",
+      "file": "86b5548f84aa03dfffe6e40c.png",
+      "downloaded": true,
+      "sha256": "fd22730e525b1c0c7eb502a8d4b102ec5d3340127b69c1ab0010c64cfac1d367",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/86b5548f84aa03dfffe6e40c.png"
+    },
+    {
+      "name": "异形对铁血战士 (940520 Euro)",
+      "rom_sha256": "1f0f940706e2312efd776f386ec2cbe0991be5e458c4e6902279007902a5d38e",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Alien%20vs.%20Predator%20(USA%20940520).png",
+      "file": "0de6e2f7e1dd983d81ae19ce.png",
+      "downloaded": true,
+      "sha256": "5c41245a5c25be07099870e15f3a6724a800bb748e255d5c3c6df2465df6b121",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0de6e2f7e1dd983d81ae19ce.png"
+    },
+    {
+      "name": "战斗回路 (970319 Euro)",
+      "rom_sha256": "248d2c3be9f6103897a0f9a911b0308e32a1858c6b4f8846b7165693ee05af3b",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Battle%20Circuit%20(970319%20Asia).png",
+      "file": "611397184e8805221cb8bcee.png",
+      "downloaded": true,
+      "sha256": "50399e36b9f6989c07e504f55c80cddfa56cdcf51b7396c10258fbc35e8efa4c",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/611397184e8805221cb8bcee.png"
+    },
+    {
+      "name": "名将 (911202 other country)",
+      "rom_sha256": "7ee332aa286c8a08e4eae2d0e613f38daa1a9fe448d4bdd481f86b3db78cbd31",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Captain%20Commando%20(910928%20USA).png",
+      "file": "e1712aeb476ea34ed375b017.png",
+      "downloaded": true,
+      "sha256": "93bdb16fb8e69598b61b2541b65cbac7d48099392b9b552ff1d05905c0a12944",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/e1712aeb476ea34ed375b017.png"
+    },
+    {
+      "name": "雌虎战机 (U.S. navy 901012 etc)",
+      "rom_sha256": "6f0587bee5da6bdcacd0810b7e221c9cc6647e320764c2b83edbd026563596fd",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Carrier%20Air%20Wing%20(U.S.%20navy%20901012%20USA).png",
+      "file": "3be0a4b97c770414a97eab36.png",
+      "downloaded": true,
+      "sha256": "a0ec3dcbe7be2b170bc17c13672ceff676895d6514180a08a9003d224200af95",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3be0a4b97c770414a97eab36.png"
+    },
+    {
+      "name": "长江 (010820 Japan)",
+      "rom_sha256": "97009e6e1dbf30811ac791baf0a81c55d5f2890fdb821fa37c6849674dd4113f",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Choko%20(010820%20Japan).png",
+      "file": "ea5fadd7bc24e37f1297f2b2.png",
+      "downloaded": true,
+      "sha256": "7ff2d6b075640e195502610fbe9859af2bf0108e3ad95c1d3e5281bef0969ba9",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/ea5fadd7bc24e37f1297f2b2.png"
+    },
+    {
+      "name": "Frog Feast (CPS-1)",
+      "rom_sha256": "dba81a541509622edcade07ba7dd48c6003e3059d6cc3f52553f1ef8dbb4d6fd",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Frog%20Feast%20(CPS-1).png",
+      "file": "d600dc824a82986c915d222e.png",
+      "downloaded": true,
+      "sha256": "c98c0a0a98bd0f67595f83196e8c58a42811fe620fdac0bb159f67bc94a18703",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d600dc824a82986c915d222e.png"
+    },
+    {
+      "name": "卡普空运动俱乐部 (971017 Euro)",
+      "rom_sha256": "605ee5fe85a2fda40f29a08c13bb04db940d871aaee17b9be44890df0572b449",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Capcom%20Sports%20Club%20(970722%20Asia).png",
+      "file": "4e9e59c5fb090249bda56f11.png",
+      "downloaded": true,
+      "sha256": "1768fffa55f01c4067ebf95a8a6dbf24819aa2f4c0f393e5cc2553a66522e233",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/4e9e59c5fb090249bda56f11.png"
+    },
+    {
+      "name": "冒险问答 卡普空世界 2 (920611 Japan)",
+      "rom_sha256": "d172b7252c3ac7381443a02a1ef847d8a65278576a681b96fff2ae807debc063",
+      "source_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/cworld2j.png",
+      "file": "e19f6c8b5528e45bd924fdeb.png",
+      "downloaded": true,
+      "sha256": "1b79e49d5a517a1053580abae6ea5680c9958d75ce33e4fbd24a8e59f97187cf",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/e19f6c8b5528e45bd924fdeb.png"
+    },
+    {
+      "name": "机甲勇士 - 全金属狂潮 (950424 Euro)",
+      "rom_sha256": "d8657e2ccf601238567e8110ef0d19c71321bfbb60ef12a7c6d5481aab909646",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Cyberbots%20-%20fullmetal%20madness%20(950424%20USA).png",
+      "file": "7a58a837196bffe96f4a70c8.png",
+      "downloaded": true,
+      "sha256": "ff06b2d4d4e5f9af66f20135f353d407300d5272b85be212e6fd4453cf49a9b0",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/7a58a837196bffe96f4a70c8.png"
+    },
+    {
+      "name": "龙与地下城 - 暗黑秘影 (960619 Euro)",
+      "rom_sha256": "975f2b3e605d90a6e6e6f7b1b53d944b75c80469ef4c89dc84cb51c4e7a14580",
+      "source_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/ddsom.png",
+      "file": "20d15ec88eb5f483fd906df3.png",
+      "downloaded": true,
+      "sha256": "9f683d28884fe66b046a0cec71cbc290604668a39cf77fedf789fa0cc2c5dd8a",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/20d15ec88eb5f483fd906df3.png"
+    },
+    {
+      "name": "龙与地下城 - 毁灭之塔 (940412 Euro)",
+      "rom_sha256": "f693f03692856267400aa8ec6004f799e8c1b6225293fcc66e697e0caca78039",
+      "source_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/ddtod.png",
+      "file": "8055519820387106b00cc999.png",
+      "downloaded": true,
+      "sha256": "47a784317a65c1b4b59cc6320412d05e3960a2a64f41b5a8c483978e005954fc",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8055519820387106b00cc999.png"
+    },
+    {
+      "name": "迪玛乎 (000121 Euro)",
+      "rom_sha256": "47d436b5992490d38c18602fe9fc0f4f05d6de0eb559f378e7013c23563bf531",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Dimahoo%20(000121%20USA).png",
+      "file": "8e79c6f8422e94ad1b70c8e2.png",
+      "downloaded": true,
+      "sha256": "ac73220d781d90593f4b21c66ba790c19c3530084ff74c45cc109dcae60f2eda",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8e79c6f8422e94ad1b70c8e2.png"
+    },
+    {
+      "name": "恐龙新世纪 (930201 etc)",
+      "rom_sha256": "ca6db77989b68836621025edc44f931ef71a749c09900560a339b2c30e34f215",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Cadillacs%20and%20Dinosaurs%20(USA%20921209).png",
+      "file": "d43fadac68550e77a04f3b42.png",
+      "downloaded": true,
+      "sha256": "af58b0b2f4c210c590007dff270777f441a9ea4d9eabc35f5f89b4059a2e270b",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d43fadac68550e77a04f3b42.png"
+    },
+    {
+      "name": "恶魔战士 - 午夜斗士 (940705 Euro)",
+      "rom_sha256": "7c54eafc56e02287e297429f45fe34d806303f2452e0826468febd5fb3b17ff1",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Darkstalkers%20-%20the%20night%20warriors%20(940705%20USA).png",
+      "file": "6d5ebaa4d2b2e3313fd9667a.png",
+      "downloaded": true,
+      "sha256": "296dc12b4b140d7492131fc2c923f1e9a5afe425293f9c3cb8aacd1a638fbd2a",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6d5ebaa4d2b2e3313fd9667a.png"
+    },
+    {
+      "name": "王朝战争 (US set 1)",
+      "rom_sha256": "8a4bda0a25a62ea01f1c2ca1bd769d348523501526d045d34457a9c816535261",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Dynasty%20Wars%20(USA%2C%20B-Board%2088622B-3).png",
+      "file": "8a4deb8e4ec790643114ece1.png",
+      "downloaded": true,
+      "sha256": "369a0b57ee90d31cd42c712c7c070da709cd2d43f31aa1244b49b8e37fd811b2",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8a4deb8e4ec790643114ece1.png"
+    },
+    {
+      "name": "环保战机 (931203 etc)",
+      "rom_sha256": "ccdad774f23024db5b074002e740aa450ed8fb3bcd5666d390e6db62c09baf53",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Eco%20Fighters%20(931203%20USA).png",
+      "file": "a1e84e4ba6f9118b1077332c.png",
+      "downloaded": true,
+      "sha256": "6dfa75c92075cd69fd57c64ed07a67ec1358caaaa65f44d4cf1de30941df0689",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/a1e84e4ba6f9118b1077332c.png"
+    },
+    {
+      "name": "快打旋风 (World, set 1)",
+      "rom_sha256": "b5491f1dcecd1650ebea4940bd539b8d6210989abcdbc73572c192e9af2a1bdc",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Final%20Fight%20(900112%20USA).png",
+      "file": "282321cf0124bba92ebb424c.png",
+      "downloaded": true,
+      "sha256": "2f43f5f0cc4683f15215eb2a8d9c8047ffce5eec72845f7364b8f710566de58f",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/282321cf0124bba92ebb424c.png"
+    },
+    {
+      "name": "失落的世界 (World)",
+      "rom_sha256": "a34bc6391f7dca5d59ced5ccaa471288fd71bbd0cd647ecc75a8b28ddec09226",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Forgotten%20Worlds%20(USA%2C%20B-Board%2088618B-2%2C%20Rev.%20A).png",
+      "file": "096c769d5288cc1d766765cc.png",
+      "downloaded": true,
+      "sha256": "68681eeaa81f1e83ad65ab59946a94ceb54bf1677024203da1edc19704d521a4",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/096c769d5288cc1d766765cc.png"
+    },
+    {
+      "name": "大魔界村 (World)",
+      "rom_sha256": "83fe010defb48fb082e275897706b4786409a16e1480f63b3bbe3a17189a873e",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ghouls'n%20Ghosts%20(USA).png",
+      "file": "5c26005d3933b9fef8893bff.png",
+      "downloaded": true,
+      "sha256": "b742bd1ea0f1be2bfeb54028209d50d141f2d839e657a73172448df620203fd6",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/5c26005d3933b9fef8893bff.png"
+    },
+    {
+      "name": "雷鸟之翼 (990222 USA)",
+      "rom_sha256": "f6796f99ee60746b3537963ccbf7d5a80850fdff99a64890d4ccf9bdc296d8ef",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Giga%20Wing%20(990222%20USA).png",
+      "file": "d389c2271e7d91bbc42b91b6.png",
+      "downloaded": true,
+      "sha256": "b0a7ee237a38cdfb9266c0c24188603e04ebd6be0fb746c13b6d273cbcae2871",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d389c2271e7d91bbc42b91b6.png"
+    },
+    {
+      "name": "终极街头霸王 II - 周年纪念版 (040202 USA)",
+      "rom_sha256": "6b8d436f240a02291b8b1b230c8253a926536110b1094c0103ab37105c8d96a7",
+      "source_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/hsf2.png",
+      "file": "36685d12d4eb4832bd3e7c40.png",
+      "downloaded": true,
+      "sha256": "3c3146baf87e5dfbc84043b0d45556936c0e976bdcb1072837ffe0f7cc81580f",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/36685d12d4eb4832bd3e7c40.png"
+    },
+    {
+      "name": "乔乔的奇妙冒险 (USA 990128)",
+      "rom_sha256": "d3c40edaff4bc8c975ed4177fdf772f6ee04cca0bd26903fbd635e06e900ba1c",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/JoJo's%20Venture%20_%20JoJo%20no%20Kimyou%20na%20Bouken%20(USA%20981202).png",
+      "file": "9baa2ddd9f64aacb04036c8f.png",
+      "downloaded": true,
+      "sha256": "3d362d01e9385c54bd1b36b68397a5059310222951711a7210c7b9c991a014fc",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9baa2ddd9f64aacb04036c8f.png"
+    },
+    {
+      "name": "乔乔的奇妙冒险 - 未来遗产 (Japan 990927)",
+      "rom_sha256": "cc791c35b468e679630a023a674fe8dfaceafa71645f63707e8017118177b335",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/JoJo's%20Bizarre%20Adventure_%20Heritage%20for%20the%20Future%20_%20JoJo%20no%20Kimyou%20na%20Bouken_%20Mirai%20e%20no%20Isan%20(Euro%20990913).png",
+      "file": "022c37e0ea925a9aac5216b0.png",
+      "downloaded": true,
+      "sha256": "7c96481164d62f76475d80caa77c4638da3182c5da6f3eb3ad8963ebc6630870",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/022c37e0ea925a9aac5216b0.png"
+    },
+    {
+      "name": "圆桌骑士 (911127 etc)",
+      "rom_sha256": "499b735776138075a67e62961c0490d0cbbc0b96eaca21688aedf55f52edac01",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Knights%20of%20the%20Round%20(911127%20USA).png",
+      "file": "3508418a897eefc4745fd3d1.png",
+      "downloaded": true,
+      "sha256": "ce281e65fb254432469ea4d3e6b99aab9e6fe72ec0e23cee6a0051ab8c306652",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3508418a897eefc4745fd3d1.png"
+    },
+    {
+      "name": "龙王战士 (910805 etc)",
+      "rom_sha256": "bf2e06e6f09fa122c412ce5b24bbe3d27ed5a4a2ed40625dc725d1339825e83e",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Dragons%20(USA%20910910).png",
+      "file": "cd4e91b206cc5f8cd59b2145.png",
+      "downloaded": true,
+      "sha256": "4693b8ec5ef3e6109707ee56ddfc131e5c7545ad3cf9869dc5a7f2775a7b7878",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/cd4e91b206cc5f8cd59b2145.png"
+    },
+    {
+      "name": "肌肉爆弹二重奏 - 最终之战 (931206 etc)",
+      "rom_sha256": "95704a4fda80e961b16b3845ccdd727e47a1095f8400c98ab421f359281a13bc",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Muscle%20Bomber%20Duo%20-%20ultimate%20team%20battle%20(931206%20World).png",
+      "file": "524b84b0cf94c1d516a277f5.png",
+      "downloaded": true,
+      "sha256": "61e3951b245c254a09078dfaad338aa89ec06235695943743f7dcd97a929ee45",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/524b84b0cf94c1d516a277f5.png"
+    },
+    {
+      "name": "洛克人 - 力量之战 (951006 USA)",
+      "rom_sha256": "9d569e42c21b8d3ec9b02de66028113d3cb8fa8ab43bf8b073dae3abe45dd564",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mega%20Man%20-%20the%20power%20battle%20(951006%20USA).png",
+      "file": "091ad985189a788cf657ea1a.png",
+      "downloaded": true,
+      "sha256": "0702d4c86a756312128653bbfebeb6e59b715f248d358097ecaa6956637c4d84",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/091ad985189a788cf657ea1a.png"
+    },
+    {
+      "name": "洛克人 2 - 力量对决 (960708 USA)",
+      "rom_sha256": "ed9f695e85987855a7e348aa811d1348d2d5350a70194d35f7e27a67057e368e",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mega%20Man%202%20-%20the%20power%20fighters%20(960708%20USA).png",
+      "file": "d0e3f370118c40279cc8c409.png",
+      "downloaded": true,
+      "sha256": "7da31d67c48a52d50a131860f37f68e4369fa457d5d9c2d5371a422a95c96d5c",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d0e3f370118c40279cc8c409.png"
+    },
+    {
+      "name": "佣兵 (900302 etc)",
+      "rom_sha256": "33463e9c8c11aef2e155453ee2c23b75444da7f0c534f2e8dcf88d6e3cf87879",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mercs%20(900302%20USA).png",
+      "file": "f9a4a32ea2ae3b5d0ae9a617.png",
+      "downloaded": true,
+      "sha256": "3144525fe7e24a48750462bcbac629fcab6246d8ee22cf511baa4d78c2bbee98",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/f9a4a32ea2ae3b5d0ae9a617.png"
+    },
+    {
+      "name": "火星矩阵 (000412 USA)",
+      "rom_sha256": "a8726602ff6f9f1fedd8ab498914dc605a924ce2c4d70fb4b4ea33159e189b45",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mars%20Matrix%20(000412%20USA).png",
+      "file": "dbc7d482f3c451b336a27183.png",
+      "downloaded": true,
+      "sha256": "76da94a655187ed3a76c840c45aecc7678f82c8ba822e1499ee8bfb3c59a46ff",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/dbc7d482f3c451b336a27183.png"
+    },
+    {
+      "name": "超强气泡 (001010 Euro)",
+      "rom_sha256": "2b8ae91e3c6f22f046b3668c91252b76a6f7e09ca055c680c029696c5175467b",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mighty!%20Pang%20(001010%20USA).png",
+      "file": "57182eba1cac314a1dd3989f.png",
+      "downloaded": true,
+      "sha256": "f163f664f119fd393e6a150c52a5d4387070127b175e2a673726d337c90e5c37",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/57182eba1cac314a1dd3989f.png"
+    },
+    {
+      "name": "漫威超级英雄 (951024 Euro)",
+      "rom_sha256": "6495a18dd31dabc783f0a854402fd90a433b0b7d2efa10f24c718bd534c3d0d3",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Marvel%20Super%20Heroes%20(951024%20USA).png",
+      "file": "fdb931336487e1ac99cdfc2c.png",
+      "downloaded": true,
+      "sha256": "77b044fa4f970462ee01b5fbea536b435957349fff00803127a5aad976d65137",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/fdb931336487e1ac99cdfc2c.png"
+    },
+    {
+      "name": "漫威超级英雄对街头霸王 (970625 Euro)",
+      "rom_sha256": "eab70f65ad824a0b58ea5c938096bbd9a42526e1d34294417faabb397f393d3e",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Marvel%20Super%20Heroes%20Vs.%20Street%20Fighter%20(USA%20970625).png",
+      "file": "8aa8810219978ca2a9c29473.png",
+      "downloaded": true,
+      "sha256": "056029e9b83172479baea7001fef10a0239cd8a2d37aeef6ec842159e5e0fca3",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8aa8810219978ca2a9c29473.png"
+    },
+    {
+      "name": "魔法剑 - 英雄的幻想 (25.07.1990 other country)",
+      "rom_sha256": "934c24783f93f21e3f59b97c21d4e245f0e859a8bd98c98c37beaf36e48c157c",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Magic%20Sword%20-%20heroic%20fantasy%20(25.07.1990%20USA).png",
+      "file": "678366230c07e51b5e863691.png",
+      "downloaded": true,
+      "sha256": "0005258a7b26a4e50335bac7fa16ea8a7980629d433565279b970404954c4ae7",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/678366230c07e51b5e863691.png"
+    },
+    {
+      "name": "双麒儿 (chiki chiki boys 900619 etc)",
+      "rom_sha256": "363c63655fc6e37ea815ab2638e349ef50b37619c5ed66ec4013ef72a860d083",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mega%20Twins%20(World%20900619).png",
+      "file": "85b83e98bfc02a076be96cb6.png",
+      "downloaded": true,
+      "sha256": "8d6e1069d156c110ff0f0dd6ee6ca4fa02cf8250b5fed895e014879079d7ed8a",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/85b83e98bfc02a076be96cb6.png"
+    },
+    {
+      "name": "漫威对卡普空 - 超级英雄的冲突 (980123 Euro)",
+      "rom_sha256": "b29bd665c0ba2bc3214fcdde9340785c4a3a49717bd8fb4be68f26c9566a1b57",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Marvel%20Vs.%20Capcom_%20Clash%20of%20Super%20Heroes%20(USA%20971222).png",
+      "file": "90dd99fc96a20d464c08dfa4.png",
+      "downloaded": true,
+      "sha256": "d808e2fe2c4e740ffd25e522a4b81a4d5a951e4915b054d8c80a9db99e2601b8",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/90dd99fc96a20d464c08dfa4.png"
+    },
+    {
+      "name": "梦幻冒险 (90 11 30 etc)",
+      "rom_sha256": "568558176312b22b6b2405bd09ca3ff97009c4630975e7f54d0e1ff264e6fec7",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Nemo%20(World%20901109).png",
+      "file": "c6d3fcd4980aca97e3cc1d6f.png",
+      "downloaded": true,
+      "sha256": "786c5010092767df159fc466f96b2decf266ab6d4bacd29a5794f8586873346d",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/c6d3fcd4980aca97e3cc1d6f.png"
+    },
+    {
+      "name": "恶魔战士 - 恶魔的复仇 (950316 Euro)",
+      "rom_sha256": "7b213c60f7c6f35b2719508120440d53eded1596b09108138ef40e3a3242f9f9",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Night%20Warriors%20-%20darkstalkers'%20revenge%20(950406%20USA).png",
+      "file": "dabdab4fd2d83276436ebde2.png",
+      "downloaded": true,
+      "sha256": "a75d39900ff2a9aee60bb413a7048ad0712fa45893363486f695cd8163118fa7",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/dabdab4fd2d83276436ebde2.png"
+    },
+    {
+      "name": "魔鬼气泡 3 (950601 Euro)",
+      "rom_sha256": "479b039cfea758e8baec7e32458c88da88eaa5352c3f39c2ae71c92820a5d77b",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pang!%203%20(950511%20Euro).png",
+      "file": "9f19105a579dacad0d0e9576.png",
+      "downloaded": true,
+      "sha256": "529eb37e27689be974a10dce47d6142878eacb4cfa7ceae2346b0019a1179722",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9f19105a579dacad0d0e9576.png"
+    },
+    {
+      "name": "超级口袋战士 (970904 Japan)",
+      "rom_sha256": "2833148743be9c499f90c3d9e610a5c0ed0689b2db981d253fe16435aec51ab5",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pocket%20Fighter%20(970904%20Japan).png",
+      "file": "0815a0f2d3cba359121ac844.png",
+      "downloaded": true,
+      "sha256": "1273efeaab3b7bd42d8eedbc607c9c27b0fa70823013746372abc0225b62736d",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0815a0f2d3cba359121ac844.png"
+    },
+    {
+      "name": "核心齿轮 - 战略变异装甲 (941024 Japan)",
+      "rom_sha256": "3c8c8084ff6722d842d068baaaccf7249bb10d132c17073f5c9b63457e9c6e7f",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Powered%20Gear%20-%20strategic%20variant%20armor%20equipment%20(940916%20Japan).png",
+      "file": "0d3a5038e7ce2ca75dffb73c.png",
+      "downloaded": true,
+      "sha256": "39b44bd5cb1c22ca6ff97b0e49a9dbe69ef7cc927d41160adb57f41a05814bdd",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0d3a5038e7ce2ca75dffb73c.png"
+    },
+    {
+      "name": "魔法方块 (940608 Japan)",
+      "rom_sha256": "1f6e1c5934adbe1d328b802b416d4cb8356392a0be2c2afed4a72809ce918ac6",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pnickies%20(940608%20Japan).png",
+      "file": "45a04c3b101cefd02dc540d1.png",
+      "downloaded": true,
+      "sha256": "fec8962aa66b3f0b9e3f77673b1de2132e3acb1aee4a99e2f7339a7ff48329b6",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/45a04c3b101cefd02dc540d1.png"
+    },
+    {
+      "name": "能源之岚 (010117 USA)",
+      "rom_sha256": "09bbf348d41836733ca49248e49b56a79cf198ba0ba6985685355af01c967d8c",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Progear%20(010117%20USA).png",
+      "file": "add270f26808c1d9e76224f7.png",
+      "downloaded": true,
+      "sha256": "cb2742432ee03cff1f671a37233ce7e228b7bc40a0188c54825ddb497bb137e1",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/add270f26808c1d9e76224f7.png"
+    },
+    {
+      "name": "惩罚者 (930422 etc)",
+      "rom_sha256": "608db124f09ca606f79b1aa8a6f0c4454d062ccddcaa89da38d7747792b67628",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Punisher%20(930422%20USA).png",
+      "file": "8f379b0fcb760002e9a26f95.png",
+      "downloaded": true,
+      "sha256": "ba24414c169faa5c9b9318d877958c733e5caa4c1652137a8b31698054e9ed8e",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8f379b0fcb760002e9a26f95.png"
+    },
+    {
+      "name": "谜球回路 2 (010302 Euro)",
+      "rom_sha256": "a06d40e51f51dd017bf41e10c590007293969367a998769b4cc3e855383e450e",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzz%20Loop%202%20(010205%20Japan).png",
+      "file": "1db31cfc6c8d75ae99a9c991.png",
+      "downloaded": true,
+      "sha256": "4ba3171860ba5441b195f3017d64287bf13369f054abf805ee9704bc559155b6",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/1db31cfc6c8d75ae99a9c991.png"
+    },
+    {
+      "name": "龙之迷题 (capcom quiz game 920701 USA)",
+      "rom_sha256": "ad274a94ca1f30fb906d04770b25f0e16d6e6bbac2a35bb635788d5e701cd407",
+      "source_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/qad.png",
+      "file": "db8e60a6cfd4e1ffddc9c824.png",
+      "downloaded": true,
+      "sha256": "50e5f202a3484a26d1471515ea42ae46d927e788c07b20c18ab478e78859e0a2",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/db8e60a6cfd4e1ffddc9c824.png"
+    },
+    {
+      "name": "真实之梦问答 - 虹色町的奇迹 (nanairo dreams 960826 Japan)",
+      "rom_sha256": "bf705a99be29e93089df81238783cdd04b5a7d688419244c17c29b7d5303c3bb",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Quiz%20Nanairo%20Dreams%20-%20nijiirochou%20no%20kiseki%20(nanairo%20dreams%20960826%20Japan).png",
+      "file": "1ea75fd1609bc60d47eb02bb.png",
+      "downloaded": true,
+      "sha256": "e1780fae2b57efa257ba4c190eea897d73a1b1ad2d133bca7145cd9f564cdc54",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/1ea75fd1609bc60d47eb02bb.png"
+    },
+    {
+      "name": "赤色大地 (Euro 961121)",
+      "rom_sha256": "b5a5d2a15ce94745201f196eb77abb6537500c5c53a76bd4b397833c6249d154",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Red%20Earth%20_%20War-Zard%20(Asia%20961023%2C%20NO%20CD).png",
+      "file": "a4d2607f91c081ec605b565b.png",
+      "downloaded": true,
+      "sha256": "3b19b11189b5221d65c53c9ff8bbf25faa311ca4e6c5c4989d83be42052d2bc8",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/a4d2607f91c081ec605b565b.png"
+    },
+    {
+      "name": "毁坏之环 - 摔角霸王 II (940902 Euro)",
+      "rom_sha256": "7d53e7b903da623f6d481e3ce0bc81296d377d6e21a9469f4def9507f75d3226",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ring%20of%20Destruction%20-%20slammasters%20II%20(940831%20Asia).png",
+      "file": "bce1ce9ec778895ef8221bad.png",
+      "downloaded": true,
+      "sha256": "770813e0918615e6c9c3a82d75b5bab03ddc7991e797140b920f73e9c8a61f36",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/bce1ce9ec778895ef8221bad.png"
+    },
+    {
+      "name": "洛克人 2 - 力量对决 (960708 Japan)",
+      "rom_sha256": "7c5b267d8a89dbd69b0d50ba2648ebfdf0f1855619464b323bcd08e2e1e14082",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Rockman%202%20-%20the%20power%20fighters%20(960708%20Japan).png",
+      "file": "96105cfe563030d2e812b2a6.png",
+      "downloaded": true,
+      "sha256": "702e79a52416f10a05ae2caec06da0ca593bd9e2cd93e7ed024b97ce50c7cea2",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/96105cfe563030d2e812b2a6.png"
+    },
+    {
+      "name": "街头霸王 II - 天下斗士 (910522 etc)",
+      "rom_sha256": "3d822f3932aae8f24d8949719e01db885a26383a680612e3f7c346c39cc6c601",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20II%20-%20The%20World%20Warrior%20(910129%20World).png",
+      "file": "6a4b7fb0c9642294369f158d.png",
+      "downloaded": true,
+      "sha256": "fe0611a418d373bb4774cb71898da96474ba37549588460f70a0738b804bb026",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6a4b7fb0c9642294369f158d.png"
+    },
+    {
+      "name": "街头霸王 II - 四大天王 (street fighter 2' 920513 etc)",
+      "rom_sha256": "2c830ae5dabf077bc211b0e803fef765dc9499ef7c9353e61d565a86d62d2092",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20II'%20-%20Champion%20Edition%20(920313%20USA%20bootleg%20set%201).png",
+      "file": "582ae03f819c842859aac78b.png",
+      "downloaded": true,
+      "sha256": "85a46f53da614749146a9db4803924216dbabcee2bf23c8ab4884a1ee5315881",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/582ae03f819c842859aac78b.png"
+    },
+    {
+      "name": "街头霸王 II - 战斗宣言 (street fighter 2' T 921209 ETC)",
+      "rom_sha256": "d55010243b851859a156715c603a20a554f8d21cacf30a9da2a490c666541481",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20II'%20-%20Hyper%20Fighting%20(street%20fighter%202'%20T%20921209%20USA).png",
+      "file": "96d51124dc3a5510d3730892.png",
+      "downloaded": true,
+      "sha256": "fb33f140f446ec2539fd68ab66cdc485d9fdf7f18a529302cce613586dd33433",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/96d51124dc3a5510d3730892.png"
+    },
+    {
+      "name": "少年街霸 - 斗士之梦 (950727 Euro)",
+      "rom_sha256": "4e2d65f08bf925fae548ff5f65483f536240cd3d2327fb68c3928187e85d12ae",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Alpha%20-%20warriors'%20dreams%20(950627%20USA).png",
+      "file": "7a15be5c6756cea864cfbaaf.png",
+      "downloaded": true,
+      "sha256": "f8a35e4cbf17161944d9432bf472f4d8d455ac98f37cce3d0a0b48c614ad98f2",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/7a15be5c6756cea864cfbaaf.png"
+    },
+    {
+      "name": "少年街霸 2 (960229 Euro)",
+      "rom_sha256": "6258cbdcaff20b7d607d97fcd9b469504821452a7c60efb96079b63b63cb917a",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Alpha%202%20(960306%20USA).png",
+      "file": "62f78cfcd131dbe6ff414263.png",
+      "downloaded": true,
+      "sha256": "00a0845633ea8a80ba786781ba420029fb164219d84d3db7f6aea2f42124b0b5",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/62f78cfcd131dbe6ff414263.png"
+    },
+    {
+      "name": "少年街霸 3 (980904 Euro)",
+      "rom_sha256": "a21ad20d59f9da47af4d82e8e02890455065151a32d7a2cd74d6a025d6526c86",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Alpha%203%20(980629%20USA).png",
+      "file": "0cd61a9a0a6512a186f24576.png",
+      "downloaded": true,
+      "sha256": "b20ff67e2e75adf7def29f587f85bf277ad1fd42f0d66e1d09a63503f6387df5",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0cd61a9a0a6512a186f24576.png"
+    },
+    {
+      "name": "街头霸王 III - 新的时代 (USA 970204)",
+      "rom_sha256": "9a4282af3e264c58fb413f07f6ae069dc9430e4b0c15b812d13578628b242298",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20III_%20New%20Generation%20(USA%20970204).png",
+      "file": "88c2f3bd685391bc4ed07b6d.png",
+      "downloaded": true,
+      "sha256": "3095c1b0cc77fee438a7c6343ec408fc5df9bd9a24414a2bad0bbf54093717b9",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/88c2f3bd685391bc4ed07b6d.png"
+    },
+    {
+      "name": "街头霸王 III 二度冲击 - 巨型攻击 (USA 970930)",
+      "rom_sha256": "f8014f95f07094122ce8536108b1305996f8cf8b461ac1459315dc3ce1ad864a",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20III%202nd%20Impact_%20Giant%20Attack%20(USA%20970930).png",
+      "file": "5420b42750c9d10fb1d0899d.png",
+      "downloaded": true,
+      "sha256": "ef3523d7fdcbd0ea9429cb2ec160c506a7e2388d147139fb82cfc75d814cd391",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/5420b42750c9d10fb1d0899d.png"
+    },
+    {
+      "name": "街头霸王 III 三次攻击 - 未来战斗 (Euro 990608)",
+      "rom_sha256": "2e2cb056c6d42bcf0d209dc020a141aeecd0c091fe01cf3367522c39847257fe",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20III%203rd%20Strike_%20Fight%20for%20the%20Future%20(USA%20990512).png",
+      "file": "4f6255566d7e8e1814822db4.png",
+      "downloaded": true,
+      "sha256": "1a45385a0362de4d5203ecd143c50dad8e15f57d5c7dd1c63e40b7a9fc3e655b",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/4f6255566d7e8e1814822db4.png"
+    },
+    {
+      "name": "Street Fighter Zero (CPS Changer, 951020 Japan)",
+      "rom_sha256": "95fa1beec7ddf51b1a31d60da39dc69a4620b7df61bc4abf45577f8b0b7eb7bb",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Zero%20(950605%20Asia).png",
+      "file": "9f7e0f318419f408355e38af.png",
+      "downloaded": true,
+      "sha256": "2440e1a14c0de446baf26028b2590861a98558cd9afcfa158cc6185332cd0833",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9f7e0f318419f408355e38af.png"
+    },
+    {
+      "name": "超级口袋战士 (970904 USA)",
+      "rom_sha256": "e920defaf4c8bf837c65ba9afba3012c75ca7105f83f83749816c5b4c12082ad",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Gem%20Fighter%20Mini%20Mix%20(970904%20USA).png",
+      "file": "d03cebc79a7007c01df24745.png",
+      "downloaded": true,
+      "sha256": "0c21c8e3cd2dba267223567b1d44373c68492671d418db251f4e30aedb3f641e",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d03cebc79a7007c01df24745.png"
+    },
+    {
+      "name": "摔角霸王 (Slam Masters 930713 etc)",
+      "rom_sha256": "b219dc174617542cbc0b04c6553754908e1a1ce2e7fed03e1c09d23c94222e66",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Saturday%20Night%20Slam%20Masters%20(Slam%20Masters%20930713%20World).png",
+      "file": "6717cf544148bb7d313fc32d.png",
+      "downloaded": true,
+      "sha256": "af11c511edba569b0ff3c6c5b3bf3be73730d3bd985a6e267d4c0e9ea5f0715e",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6717cf544148bb7d313fc32d.png"
+    },
+    {
+      "name": "超级肌肉爆弹 - 劲爆国际 (940831 Japan)",
+      "rom_sha256": "ecafd18b8937647595b703ab604bae6e77599363c9148bc3272364de9c6ff886",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Muscle%20Bomber%20-%20the%20international%20blowout%20(940808%20Japan).png",
+      "file": "b6abe95fc9063501d8ecccf6.png",
+      "downloaded": true,
+      "sha256": "d8a1e30add74f1067fe64aea7cf8767daddf3fe69e2c7a6990c1ab546b5da7f1",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/b6abe95fc9063501d8ecccf6.png"
+    },
+    {
+      "name": "超级街霸方块 II 加速版 (Super Puzzle Fighter 2 Turbo 960620 USA)",
+      "rom_sha256": "0509cd01cc748d06ac516587b07cb3253b0583f5242058d24cbdfb56e8a6b509",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Puzzle%20Fighter%20II%20Turbo%20(Super%20Puzzle%20Fighter%202%20Turbo%20960620%20USA).png",
+      "file": "d9965d3047727f942f7f1154.png",
+      "downloaded": true,
+      "sha256": "fde57b1de931788c469f0b7622c19c7aa1c499727095729c866843cdc25ab555",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d9965d3047727f942f7f1154.png"
+    },
+    {
+      "name": "超级街头霸王 II - 新的挑战者 (super street fighter 2 930911 etc)",
+      "rom_sha256": "041be7d890c6278c4dc1372658cf505fd6091817938828f738e73510b401eb17",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Street%20Fighter%20II%20-%20the%20new%20challengers%20(super%20street%20fighter%202%20930911%20USA).png",
+      "file": "640a4885cfcb6125f9b4f7d9.png",
+      "downloaded": true,
+      "sha256": "197bdc02cee1f3192c446d160d1405f127a8dcff8def7b88a06ff214b75643d0",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/640a4885cfcb6125f9b4f7d9.png"
+    },
+    {
+      "name": "超级街头霸王 II 加速版 (super street fighter 2 X 940223 etc)",
+      "rom_sha256": "4ebc7b08aed4a19588c12e0f09a8ae887bddd8f60e3cca87deedf5c0cf28a89e",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Street%20Fighter%20II%20Turbo%20(USA%20940223).png",
+      "file": "65e0eb0e9f46cb0c46f226b9.png",
+      "downloaded": true,
+      "sha256": "68802a3603de81f27343c33cad763b1b308fb504775a490b7de8c0961d17090f",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/65e0eb0e9f46cb0c46f226b9.png"
+    },
+    {
+      "name": "出击飞龙 (US set 1)",
+      "rom_sha256": "942706f31688f22356fcc6b8d20736654f80cc1d4c62b3f50d5357dfb1ff64aa",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Strider%20(USA%2C%20B-Board%2089624B-2).png",
+      "file": "99ee7920413c27d91edfb8b3.png",
+      "downloaded": true,
+      "sha256": "d88f49a99ba63b0017ed300c571b0e93580d905cec5bc3226eb063558a77c2e7",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/99ee7920413c27d91edfb8b3.png"
+    },
+    {
+      "name": "维和部队 (US)",
+      "rom_sha256": "5232055f3f82b3b5684bf6e379142b1bd373ed44731df79acef8ae3d34d30433",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/U.N.%20Squadron%20(USA).png",
+      "file": "19547683058cdc1bf30a8392.png",
+      "downloaded": true,
+      "sha256": "9d41b8397a7550e5c145d54815877046f23408e617de5fbcf6c4b93272ffa62d",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/19547683058cdc1bf30a8392.png"
+    },
+    {
+      "name": "威虎战机 - 雷暴行动 (920714 etc)",
+      "rom_sha256": "7935549bd106c4e7f33221ca35416bcc409b18a647724dfdcaa332de50a15b00",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Varth%20-%20operation%20thunderstorm%20(920612%20USA).png",
+      "file": "825176306e53868c16581934.png",
+      "downloaded": true,
+      "sha256": "8c332c50dbb00878e580ecb331592413cc972772d140fb97ec7afd4be47c2ebf",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/825176306e53868c16581934.png"
+    },
+    {
+      "name": "恶魔猎人 2 - 恶魔的复仇 (970929 Japan)",
+      "rom_sha256": "d99bb1925c91a07e7aa8d4684c2eaf34a70a4412716f974bf7cf374771fe6ac0",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Vampire%20Hunter%202%20-%20darkstalkers%20revenge%20(970913%20Japan).png",
+      "file": "ea0f915280045ce65fe6ce5f.png",
+      "downloaded": true,
+      "sha256": "468dbbe049775a2ddc5f13ec4594d29c8e2b19fa9379e50c391f7d1a2ceceb3e",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/ea0f915280045ce65fe6ce5f.png"
+    },
+    {
+      "name": "恶魔救世主 - 吸血鬼贵族 (970519 Euro)",
+      "rom_sha256": "7547a392dba2bcbf19d61d5aee1146dbae6befbc7a677f0f94fb4fae230ad5cc",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Vampire%20Savior%20-%20the%20lord%20of%20vampire%20(970519%20USA).png",
+      "file": "d4af30ff3320f4ee0b825d3b.png",
+      "downloaded": true,
+      "sha256": "94bd004b4a193a18523d364c6ddf18be794bab9afe6263c3bdcde5276ea83b4a",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d4af30ff3320f4ee0b825d3b.png"
+    },
+    {
+      "name": "恶魔救世主 2 - 吸血鬼贵族 (970913 Japan)",
+      "rom_sha256": "d4d3e2997c006c1f7c6c3c5bcde10fd144737fcddb192f559e73f7af5e5c770b",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Vampire%20Savior%202%20-%20the%20lord%20of%20vampire%20(970913%20Japan).png",
+      "file": "9a11d2bab8dd06ae921b6882.png",
+      "downloaded": true,
+      "sha256": "16e0cdaf97ab5ab50092446152bef41962e9a83267a3773b00582e337675a544",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9a11d2bab8dd06ae921b6882.png"
+    },
+    {
+      "name": "威洛之旅 (US)",
+      "rom_sha256": "9e976b8b0afa5e961790939949afad8eee986e99b0b538a993f1706e0f3c8579",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Willow%20(USA).png",
+      "file": "943c91f0014fec7d34dd3c29.png",
+      "downloaded": true,
+      "sha256": "274de0454948339b6465fe442355a6f8d5f0a185a8d133ff44a6160fcdcf4506",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/943c91f0014fec7d34dd3c29.png"
+    },
+    {
+      "name": "三国志 II (921031 etc)",
+      "rom_sha256": "8d1f053e54ea14be3e13dafc806f297264c421569a2b4cfdde83a8fb72a96a78",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Warriors%20of%20Fate%20(921031%20USA).png",
+      "file": "07df11ca2bb9fcffb010dacc.png",
+      "downloaded": true,
+      "sha256": "944348205b8dd0f2d56070a967a1007dc3d5acf816afabd998cb2f4d6aa429f2",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/07df11ca2bb9fcffb010dacc.png"
+    },
+    {
+      "name": "X 战警 - 磁场原子人 (950105 Euro)",
+      "rom_sha256": "cff74275abcf28d6428ecf44a5879fb6215b9f32492ce20a24b424e3171cf5ea",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/X-Men%20-%20children%20of%20the%20atom%20(950105%20USA).png",
+      "file": "8c5b1c56fd27a171050d1cdd.png",
+      "downloaded": true,
+      "sha256": "07dc1ac01e9c586ca2e489ffd28dbb0748edd37465ad99aa1ad198ad9a978ada",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8c5b1c56fd27a171050d1cdd.png"
+    },
+    {
+      "name": "X 战警对街头霸王 (961004 Euro)",
+      "rom_sha256": "1494190c08b08137f547b57f23e302807d665ff27a8b18b53c83418986b98a3c",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/X-Men%20Vs.%20Street%20Fighter%20(USA%20960910).png",
+      "file": "cb04897d5336f0efd6a2b6d4.png",
+      "downloaded": true,
+      "sha256": "cb749806adb6d5bbfb2edcfd12268dcd195fbfbc093c2b1ee6c8e7c587dfbd12",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/cb04897d5336f0efd6a2b6d4.png"
+    },
+    {
+      "name": "加油! 马林君 (Marine 2K0411 JPN)",
+      "rom_sha256": "378858c4978d70f9344a29c0fad8d14b2fa7e53ae36ebe89c05c073e52627611",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ganbare!%20Marine%20Kun%20(Japan%202K0411).png",
+      "file": "edaa5a67eac22ba90de366e2.png",
+      "downloaded": true,
+      "sha256": "f7e9b7abd667925a170603778bb230a25fc4ef32c91a8f95a0d32f32fc1a5310",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/edaa5a67eac22ba90de366e2.png"
+    },
+    {
+      "name": "雀国志 - 覇王的采牌 (990527 Japan)",
+      "rom_sha256": "7b54d18b8061ba29008eff82922d88260bebdee5689b25a3c504e51217f71280",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Jyangokushi%20%20-Haoh%20no%20Saihai-%20(990527%20Japan).png",
+      "file": "70adbc95bcd819f1b68982a5.png",
+      "downloaded": true,
+      "sha256": "4ff8d7acfcb49625bef7b7fb43197d9031ed4edd60663366e3858965f2f07ec1",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/70adbc95bcd819f1b68982a5.png"
+    },
+    {
+      "name": "殿样之野望 2 全国版问答 (tonosama 2 950123 Japan)",
+      "rom_sha256": "05bc1d32d51c25465baa9681473d18853c91736e2f0003962b407ac3815a1113",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Quiz%20Tonosama%20no%20Yabou%202%20Zenkoku-ban%20(tonosama%202%20950123%20Japan).png",
+      "file": "1e7bbb7ae08086013237c4ea.png",
+      "downloaded": true,
+      "sha256": "9164be45431c5df8acdb37639415609ab28790fb0aeecc8f97e9ced34a417d78",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/1e7bbb7ae08086013237c4ea.png"
+    },
+    {
+      "name": "少年街霸 2 Alpha (960826 Asia)",
+      "rom_sha256": "cd397fdf4ac3175023500ef19c49bbd0c2e5bbca9e224012bb6851f92a7846a6",
+      "source_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Zero%202%20Alpha%20(960805%20Asia).png",
+      "file": "a302d44254a9a3c057b48f84.png",
+      "downloaded": true,
+      "sha256": "f24f0710605b484c39f75af710abbac22839fc030dceb89b75302d8f22c7a9e8",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/a302d44254a9a3c057b48f84.png"
+    }
+  ],
+  "missing": []
+}

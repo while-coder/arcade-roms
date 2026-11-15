@@ -24,7 +24,8 @@
       "year": "1990",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/1941.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/1941.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/53b0c78c8565549f75a52d2e.png"
     },
     {
       "name": "1944 - the loop master (000620 USA)",
@@ -43,7 +44,8 @@
       "year": "2000",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/1944.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/1944.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0c0e1a63b41ba151f3c90063.png"
     },
     {
       "name": "19XX - the war against destiny (951207 USA)",
@@ -62,7 +64,8 @@
       "year": "1995",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/19xx.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/19xx.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3ed60d7f8c2133a51fd6089d.png"
     },
     {
       "name": "Three Wonders (wonder 3 910520 etc)",
@@ -80,7 +83,8 @@
       "year": "1991",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/3wonders.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/3wonders.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/b429870b446d9114c3aa67e5.png"
     },
     {
       "name": "Armored Warriors (941024 Europe)",
@@ -99,7 +103,8 @@
       "year": "1994",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/armwar.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/armwar.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/86b5548f84aa03dfffe6e40c.png"
     },
     {
       "name": "Alien vs Predator (940520 Euro)",
@@ -118,7 +123,8 @@
       "year": "1994",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/avsp.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/avsp.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0de6e2f7e1dd983d81ae19ce.png"
     },
     {
       "name": "Battle Circuit (970319 Euro)",
@@ -137,7 +143,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/batcir.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/batcir.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/611397184e8805221cb8bcee.png"
     },
     {
       "name": "Captain Commando (911202 other country)",
@@ -155,7 +162,8 @@
       "year": "1991",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/captcomm.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/captcomm.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/e1712aeb476ea34ed375b017.png"
     },
     {
       "name": "Carrier Air Wing (U.S. navy 901012 etc)",
@@ -173,7 +181,8 @@
       "year": "1990",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cawing.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cawing.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3be0a4b97c770414a97eab36.png"
     },
     {
       "name": "Choko (010820 Japan)",
@@ -192,7 +201,8 @@
       "year": "2001",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/choko.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/choko.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/ea5fadd7bc24e37f1297f2b2.png"
     },
     {
       "name": "Frog Feast (CPS-1)",
@@ -210,7 +220,8 @@
       "year": "2006",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cps1frog.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cps1frog.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d600dc824a82986c915d222e.png"
     },
     {
       "name": "Capcom Sports Club (971017 Euro)",
@@ -229,7 +240,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/csclub.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/csclub.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/4e9e59c5fb090249bda56f11.png"
     },
     {
       "name": "Capcom World 2 (920611 Japan)",
@@ -249,7 +261,8 @@
       "year": "1992",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cworld2j.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cworld2j.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/e19f6c8b5528e45bd924fdeb.png"
     },
     {
       "name": "Cyberbots - fullmetal madness (950424 Euro)",
@@ -268,7 +281,8 @@
       "year": "1995",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/cybots.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/cybots.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/7a58a837196bffe96f4a70c8.png"
     },
     {
       "name": "Dungeons & Dragons - shadow over mystara (960619 Euro)",
@@ -287,7 +301,8 @@
       "year": "1996",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ddsom.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ddsom.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/20d15ec88eb5f483fd906df3.png"
     },
     {
       "name": "Dungeons & Dragons - tower of doom (940412 Euro)",
@@ -306,7 +321,8 @@
       "year": "1994",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ddtod.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ddtod.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8055519820387106b00cc999.png"
     },
     {
       "name": "Dimahoo (000121 Euro)",
@@ -325,7 +341,8 @@
       "year": "2000",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/dimahoo.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/dimahoo.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8e79c6f8422e94ad1b70c8e2.png"
     },
     {
       "name": "Cadillacs & Dinosaurs (930201 etc)",
@@ -343,7 +360,8 @@
       "year": "1993",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/dino.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/dino.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d43fadac68550e77a04f3b42.png"
     },
     {
       "name": "Darkstalkers - the night warriors (940705 Euro)",
@@ -362,7 +380,8 @@
       "year": "1994",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/dstlk.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/dstlk.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6d5ebaa4d2b2e3313fd9667a.png"
     },
     {
       "name": "Dynasty Wars (US set 1)",
@@ -380,7 +399,8 @@
       "year": "1989",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/dynwar.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/dynwar.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8a4deb8e4ec790643114ece1.png"
     },
     {
       "name": "Eco Fighters (931203 etc)",
@@ -398,7 +418,8 @@
       "year": "1993",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ecofghtr.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ecofghtr.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/a1e84e4ba6f9118b1077332c.png"
     },
     {
       "name": "Final Fight (World, set 1)",
@@ -417,7 +438,8 @@
       "year": "1989",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/ffight.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/ffight.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/282321cf0124bba92ebb424c.png"
     },
     {
       "name": "Forgotten Worlds (World)",
@@ -436,7 +458,8 @@
       "year": "1988",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/forgottn.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/forgottn.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/096c769d5288cc1d766765cc.png"
     },
     {
       "name": "Ghouls'n Ghosts (World)",
@@ -455,7 +478,8 @@
       "year": "1988",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/ghouls.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/ghouls.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/5c26005d3933b9fef8893bff.png"
     },
     {
       "name": "Giga Wing (990222 USA)",
@@ -474,7 +498,8 @@
       "year": "1999",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/gigawing.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/gigawing.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d389c2271e7d91bbc42b91b6.png"
     },
     {
       "name": "Hyper Street Fighter 2: The Anniversary Edition (040202 USA)",
@@ -493,7 +518,8 @@
       "year": "2004",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/hsf2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/hsf2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/36685d12d4eb4832bd3e7c40.png"
     },
     {
       "name": "JoJo's Venture / JoJo no Kimyou na Bouken (USA 990128)",
@@ -512,7 +538,8 @@
       "year": "1998",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/jojo.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/jojo.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9baa2ddd9f64aacb04036c8f.png"
     },
     {
       "name": "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)",
@@ -531,7 +558,8 @@
       "year": "1999",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/jojoba.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/jojoba.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/022c37e0ea925a9aac5216b0.png"
     },
     {
       "name": "Knights of the Round (911127 etc)",
@@ -549,7 +577,8 @@
       "year": "1991",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/knights.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/knights.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3508418a897eefc4745fd3d1.png"
     },
     {
       "name": "The King of Dragons (910805 etc)",
@@ -567,7 +596,8 @@
       "year": "1991",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/kod.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/kod.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/cd4e91b206cc5f8cd59b2145.png"
     },
     {
       "name": "Muscle Bomber Duo - ultimate team battle (931206 etc)",
@@ -585,7 +615,8 @@
       "year": "1993",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mbombrd.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mbombrd.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/524b84b0cf94c1d516a277f5.png"
     },
     {
       "name": "Mega Man - the power battle (951006 USA)",
@@ -604,7 +635,8 @@
       "year": "1995",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/megaman.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/megaman.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/091ad985189a788cf657ea1a.png"
     },
     {
       "name": "Mega Man 2 - the power fighters (960708 USA)",
@@ -623,7 +655,8 @@
       "year": "1996",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/megaman2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/megaman2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d0e3f370118c40279cc8c409.png"
     },
     {
       "name": "Mercs (900302 etc)",
@@ -641,7 +674,8 @@
       "year": "1990",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mercs.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mercs.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/f9a4a32ea2ae3b5d0ae9a617.png"
     },
     {
       "name": "Mars Matrix (000412 USA)",
@@ -660,7 +694,8 @@
       "year": "2000",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mmatrix.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mmatrix.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/dbc7d482f3c451b336a27183.png"
     },
     {
       "name": "Mighty! Pang (001010 Euro)",
@@ -679,7 +714,8 @@
       "year": "2000",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mpang.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mpang.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/57182eba1cac314a1dd3989f.png"
     },
     {
       "name": "Marvel Super Heroes (951024 Euro)",
@@ -698,7 +734,8 @@
       "year": "1995",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/msh.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/msh.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/fdb931336487e1ac99cdfc2c.png"
     },
     {
       "name": "Marvel Super Heroes vs Street Fighter (970625 Euro)",
@@ -717,7 +754,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mshvsf.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mshvsf.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8aa8810219978ca2a9c29473.png"
     },
     {
       "name": "Magic Sword - heroic fantasy (25.07.1990 other country)",
@@ -735,7 +773,8 @@
       "year": "1990",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/msword.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/msword.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/678366230c07e51b5e863691.png"
     },
     {
       "name": "Mega Twins (chiki chiki boys 900619 etc)",
@@ -753,7 +792,8 @@
       "year": "1990",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mtwins.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mtwins.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/85b83e98bfc02a076be96cb6.png"
     },
     {
       "name": "Marvel vs Capcom - clash of super heroes (980123 Euro)",
@@ -772,7 +812,8 @@
       "year": "1998",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mvsc.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mvsc.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/90dd99fc96a20d464c08dfa4.png"
     },
     {
       "name": "Nemo (90 11 30 etc)",
@@ -790,7 +831,8 @@
       "year": "1990",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/nemo.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/nemo.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/c6d3fcd4980aca97e3cc1d6f.png"
     },
     {
       "name": "Night Warriors - darkstalkers' revenge (950316 Euro)",
@@ -809,7 +851,8 @@
       "year": "1995",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/nwarr.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/nwarr.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/dabdab4fd2d83276436ebde2.png"
     },
     {
       "name": "Pang! 3 (950601 Euro)",
@@ -828,7 +871,8 @@
       "year": "1995",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/pang3.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/pang3.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9f19105a579dacad0d0e9576.png"
     },
     {
       "name": "Pocket Fighter (970904 Japan)",
@@ -851,7 +895,8 @@
         "sgemf.zip"
       ],
       "parent": "sgemf",
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pfghtj.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pfghtj.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0815a0f2d3cba359121ac844.png"
     },
     {
       "name": "Powered Gear - strategic variant armor equipment (941024 Japan)",
@@ -874,7 +919,8 @@
         "armwar.zip"
       ],
       "parent": "armwar",
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pgear.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pgear.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0d3a5038e7ce2ca75dffb73c.png"
     },
     {
       "name": "Pnickies (940608 Japan)",
@@ -893,7 +939,8 @@
       "year": "1994",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/pnickj.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/pnickj.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/45a04c3b101cefd02dc540d1.png"
     },
     {
       "name": "Progear (010117 USA)",
@@ -912,7 +959,8 @@
       "year": "2001",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/progear.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/progear.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/add270f26808c1d9e76224f7.png"
     },
     {
       "name": "The Punisher (930422 etc)",
@@ -930,7 +978,8 @@
       "year": "1993",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/punisher.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/punisher.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8f379b0fcb760002e9a26f95.png"
     },
     {
       "name": "Puzz Loop 2 (010302 Euro)",
@@ -949,7 +998,8 @@
       "year": "2001",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pzloop2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pzloop2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/1db31cfc6c8d75ae99a9c991.png"
     },
     {
       "name": "Quiz & Dragons (capcom quiz game 920701 USA)",
@@ -968,7 +1018,8 @@
       "year": "1992",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/qad.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/qad.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/db8e60a6cfd4e1ffddc9c824.png"
     },
     {
       "name": "Quiz Nanairo Dreams - nijiirochou no kiseki (nanairo dreams 960826 Japan)",
@@ -987,7 +1038,8 @@
       "year": "1996",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/qndream.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/qndream.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/1ea75fd1609bc60d47eb02bb.png"
     },
     {
       "name": "Red Earth / War-Zard (Euro 961121)",
@@ -1006,7 +1058,8 @@
       "year": "1996",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/redearth.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/redearth.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/a4d2607f91c081ec605b565b.png"
     },
     {
       "name": "Ring of Destruction - slammasters II (940902 Euro)",
@@ -1025,7 +1078,8 @@
       "year": "1994",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ringdest.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ringdest.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/bce1ce9ec778895ef8221bad.png"
     },
     {
       "name": "Rockman 2 - the power fighters (960708 Japan)",
@@ -1048,7 +1102,8 @@
         "megaman2.zip"
       ],
       "parent": "megaman2",
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/rockman2j.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/rockman2j.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/96105cfe563030d2e812b2a6.png"
     },
     {
       "name": "Street Fighter II - The World Warrior (910522 etc)",
@@ -1067,7 +1122,8 @@
       "year": "1991",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6a4b7fb0c9642294369f158d.png"
     },
     {
       "name": "Street Fighter II' - Champion Edition (street fighter 2' 920513 etc)",
@@ -1085,7 +1141,8 @@
       "year": "1992",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2ce.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2ce.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/582ae03f819c842859aac78b.png"
     },
     {
       "name": "Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 ETC)",
@@ -1103,7 +1160,8 @@
       "year": "1992",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2hf.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2hf.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/96d51124dc3a5510d3730892.png"
     },
     {
       "name": "Street Fighter Alpha - warriors' dreams (950727 Euro)",
@@ -1122,7 +1180,8 @@
       "year": "1995",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/7a15be5c6756cea864cfbaaf.png"
     },
     {
       "name": "Street Fighter Alpha 2 (960229 Euro)",
@@ -1141,7 +1200,8 @@
       "year": "1996",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/62f78cfcd131dbe6ff414263.png"
     },
     {
       "name": "Street Fighter Alpha 3 (980904 Euro)",
@@ -1160,7 +1220,8 @@
       "year": "1998",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa3.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa3.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0cd61a9a0a6512a186f24576.png"
     },
     {
       "name": "Street Fighter III: New Generation (USA 970204)",
@@ -1179,7 +1240,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/88c2f3bd685391bc4ed07b6d.png"
     },
     {
       "name": "Street Fighter III 2nd Impact: Giant Attack (USA 970930)",
@@ -1198,7 +1260,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/5420b42750c9d10fb1d0899d.png"
     },
     {
       "name": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
@@ -1217,7 +1280,8 @@
       "year": "1999",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii3.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii3.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/4f6255566d7e8e1814822db4.png"
     },
     {
       "name": "Street Fighter Zero (CPS Changer, 951020 Japan)",
@@ -1236,7 +1300,8 @@
       "year": "1995",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sfzch.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sfzch.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9f7e0f318419f408355e38af.png"
     },
     {
       "name": "Super Gem Fighter Mini Mix (970904 USA)",
@@ -1255,7 +1320,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sgemf.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sgemf.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d03cebc79a7007c01df24745.png"
     },
     {
       "name": "Saturday Night Slam Masters (Slam Masters 930713 etc)",
@@ -1273,7 +1339,8 @@
       "year": "1993",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/slammast.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/slammast.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6717cf544148bb7d313fc32d.png"
     },
     {
       "name": "Super Muscle Bomber - the international blowout (940831 Japan)",
@@ -1296,7 +1363,8 @@
         "ringdest.zip"
       ],
       "parent": "ringdest",
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/smbomb.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/smbomb.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/b6abe95fc9063501d8ecccf6.png"
     },
     {
       "name": "Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 Turbo 960620 USA)",
@@ -1315,7 +1383,8 @@
       "year": "1996",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/spf2t.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/spf2t.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d9965d3047727f942f7f1154.png"
     },
     {
       "name": "Super Street Fighter II - the new challengers (super street fighter 2 930911 etc)",
@@ -1333,7 +1402,8 @@
       "year": "1993",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ssf2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ssf2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/640a4885cfcb6125f9b4f7d9.png"
     },
     {
       "name": "Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)",
@@ -1351,7 +1421,8 @@
       "year": "1994",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ssf2t.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ssf2t.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/65e0eb0e9f46cb0c46f226b9.png"
     },
     {
       "name": "Strider (US set 1)",
@@ -1369,7 +1440,8 @@
       "year": "1989",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/strider.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/strider.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/99ee7920413c27d91edfb8b3.png"
     },
     {
       "name": "U.N. Squadron (US)",
@@ -1387,7 +1459,8 @@
       "year": "1989",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/unsquad.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/unsquad.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/19547683058cdc1bf30a8392.png"
     },
     {
       "name": "Varth - operation thunderstorm (920714 etc)",
@@ -1405,7 +1478,8 @@
       "year": "1992",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/varth.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/varth.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/825176306e53868c16581934.png"
     },
     {
       "name": "Vampire Hunter 2 - darkstalkers revenge (970929 Japan)",
@@ -1424,7 +1498,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vhunt2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vhunt2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/ea0f915280045ce65fe6ce5f.png"
     },
     {
       "name": "Vampire Savior - the lord of vampire (970519 Euro)",
@@ -1443,7 +1518,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vsav.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vsav.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d4af30ff3320f4ee0b825d3b.png"
     },
     {
       "name": "Vampire Savior 2 - the lord of vampire (970913 Japan)",
@@ -1462,7 +1538,8 @@
       "year": "1997",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vsav2.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vsav2.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9a11d2bab8dd06ae921b6882.png"
     },
     {
       "name": "Willow (US)",
@@ -1480,7 +1557,8 @@
       "year": "1989",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/willow.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/willow.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/943c91f0014fec7d34dd3c29.png"
     },
     {
       "name": "Warriors of Fate (921031 etc)",
@@ -1498,7 +1576,8 @@
       "year": "1992",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/wof.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/wof.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/07df11ca2bb9fcffb010dacc.png"
     },
     {
       "name": "X-Men - children of the atom (950105 Euro)",
@@ -1520,7 +1599,8 @@
       "dependencies": [],
       "parent": "xmcota",
       "source_file_name": "xmcota.zip",
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/xmcota.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/xmcota.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8c5b1c56fd27a171050d1cdd.png"
     },
     {
       "name": "X-Men vs Street Fighter (961004 Euro)",
@@ -1539,7 +1619,8 @@
       "year": "1996",
       "romset": "FBA 0.2.97.29",
       "dependencies": [],
-      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/xmvsf.zip"
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/xmvsf.zip",
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/cb04897d5336f0efd6a2b6d4.png"
     }
   ],
   "dependency_files": [

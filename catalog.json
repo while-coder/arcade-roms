@@ -20,7 +20,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/1941.zip",
       "name_en": "1941 - Counter Attack (900227 World)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/1941%20-%20Counter%20Attack%20(900227%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/53b0c78c8565549f75a52d2e.png"
     },
     {
       "name": "1944 - 征服世界 (000620 USA)",
@@ -40,7 +40,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/1944.zip",
       "name_en": "1944 - the loop master (000620 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/1944%20-%20the%20loop%20master%20(000620%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0c0e1a63b41ba151f3c90063.png"
     },
     {
       "name": "19XX - 命运否决战 (951207 USA)",
@@ -60,7 +60,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/19xx.zip",
       "name_en": "19XX - the war against destiny (951207 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/19XX%20-%20the%20war%20against%20destiny%20(951207%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3ed60d7f8c2133a51fd6089d.png"
     },
     {
       "name": "三个奇迹 (wonder 3 910520 etc)",
@@ -79,7 +79,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/3wonders.zip",
       "name_en": "Three Wonders (wonder 3 910520 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Three%20Wonders%20(USA%20910520).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/b429870b446d9114c3aa67e5.png"
     },
     {
       "name": "机甲勇士 (941024 Europe)",
@@ -99,7 +99,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/armwar.zip",
       "name_en": "Armored Warriors (941024 Europe)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Armored%20Warriors%20(940920%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/86b5548f84aa03dfffe6e40c.png"
     },
     {
       "name": "异形对铁血战士 (940520 Euro)",
@@ -119,7 +119,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/avsp.zip",
       "name_en": "Alien vs Predator (940520 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Alien%20vs.%20Predator%20(USA%20940520).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0de6e2f7e1dd983d81ae19ce.png"
     },
     {
       "name": "战斗回路 (970319 Euro)",
@@ -139,7 +139,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/batcir.zip",
       "name_en": "Battle Circuit (970319 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Battle%20Circuit%20(970319%20Asia).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/611397184e8805221cb8bcee.png"
     },
     {
       "name": "名将 (911202 other country)",
@@ -158,7 +158,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/captcomm.zip",
       "name_en": "Captain Commando (911202 other country)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Captain%20Commando%20(910928%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/e1712aeb476ea34ed375b017.png"
     },
     {
       "name": "雌虎战机 (U.S. navy 901012 etc)",
@@ -177,7 +177,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cawing.zip",
       "name_en": "Carrier Air Wing (U.S. navy 901012 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Carrier%20Air%20Wing%20(U.S.%20navy%20901012%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3be0a4b97c770414a97eab36.png"
     },
     {
       "name": "长江 (010820 Japan)",
@@ -197,7 +197,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/choko.zip",
       "name_en": "Choko (010820 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Choko%20(010820%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/ea5fadd7bc24e37f1297f2b2.png"
     },
     {
       "name": "Frog Feast (CPS-1)",
@@ -216,7 +216,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cps1frog.zip",
       "name_en": "Frog Feast (CPS-1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Frog%20Feast%20(CPS-1).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d600dc824a82986c915d222e.png"
     },
     {
       "name": "卡普空运动俱乐部 (971017 Euro)",
@@ -236,7 +236,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/csclub.zip",
       "name_en": "Capcom Sports Club (971017 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Capcom%20Sports%20Club%20(970722%20Asia).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/4e9e59c5fb090249bda56f11.png"
     },
     {
       "name": "冒险问答 卡普空世界 2 (920611 Japan)",
@@ -257,7 +257,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/cworld2j.zip",
       "name_en": "Capcom World 2 (920611 Japan)",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/cworld2j.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/e19f6c8b5528e45bd924fdeb.png"
     },
     {
       "name": "机甲勇士 - 全金属狂潮 (950424 Euro)",
@@ -277,7 +277,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/cybots.zip",
       "name_en": "Cyberbots - fullmetal madness (950424 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Cyberbots%20-%20fullmetal%20madness%20(950424%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/7a58a837196bffe96f4a70c8.png"
     },
     {
       "name": "龙与地下城 - 暗黑秘影 (960619 Euro)",
@@ -297,7 +297,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ddsom.zip",
       "name_en": "Dungeons & Dragons - shadow over mystara (960619 Euro)",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/ddsom.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/20d15ec88eb5f483fd906df3.png"
     },
     {
       "name": "龙与地下城 - 毁灭之塔 (940412 Euro)",
@@ -317,7 +317,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ddtod.zip",
       "name_en": "Dungeons & Dragons - tower of doom (940412 Euro)",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/ddtod.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8055519820387106b00cc999.png"
     },
     {
       "name": "迪玛乎 (000121 Euro)",
@@ -337,7 +337,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/dimahoo.zip",
       "name_en": "Dimahoo (000121 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Dimahoo%20(000121%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8e79c6f8422e94ad1b70c8e2.png"
     },
     {
       "name": "恐龙新世纪 (930201 etc)",
@@ -356,7 +356,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/dino.zip",
       "name_en": "Cadillacs & Dinosaurs (930201 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Cadillacs%20and%20Dinosaurs%20(USA%20921209).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d43fadac68550e77a04f3b42.png"
     },
     {
       "name": "恶魔战士 - 午夜斗士 (940705 Euro)",
@@ -376,7 +376,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/dstlk.zip",
       "name_en": "Darkstalkers - the night warriors (940705 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Darkstalkers%20-%20the%20night%20warriors%20(940705%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6d5ebaa4d2b2e3313fd9667a.png"
     },
     {
       "name": "王朝战争 (US set 1)",
@@ -395,7 +395,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/dynwar.zip",
       "name_en": "Dynasty Wars (US set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Dynasty%20Wars%20(USA%2C%20B-Board%2088622B-3).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8a4deb8e4ec790643114ece1.png"
     },
     {
       "name": "环保战机 (931203 etc)",
@@ -414,7 +414,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ecofghtr.zip",
       "name_en": "Eco Fighters (931203 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Eco%20Fighters%20(931203%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/a1e84e4ba6f9118b1077332c.png"
     },
     {
       "name": "快打旋风 (World, set 1)",
@@ -434,7 +434,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/ffight.zip",
       "name_en": "Final Fight (World, set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Final%20Fight%20(900112%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/282321cf0124bba92ebb424c.png"
     },
     {
       "name": "失落的世界 (World)",
@@ -454,7 +454,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/forgottn.zip",
       "name_en": "Forgotten Worlds (World)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Forgotten%20Worlds%20(USA%2C%20B-Board%2088618B-2%2C%20Rev.%20A).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/096c769d5288cc1d766765cc.png"
     },
     {
       "name": "大魔界村 (World)",
@@ -474,7 +474,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/ghouls.zip",
       "name_en": "Ghouls'n Ghosts (World)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ghouls'n%20Ghosts%20(USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/5c26005d3933b9fef8893bff.png"
     },
     {
       "name": "雷鸟之翼 (990222 USA)",
@@ -494,7 +494,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/gigawing.zip",
       "name_en": "Giga Wing (990222 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Giga%20Wing%20(990222%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d389c2271e7d91bbc42b91b6.png"
     },
     {
       "name": "终极街头霸王 II - 周年纪念版 (040202 USA)",
@@ -514,7 +514,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/hsf2.zip",
       "name_en": "Hyper Street Fighter 2: The Anniversary Edition (040202 USA)",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/hsf2.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/36685d12d4eb4832bd3e7c40.png"
     },
     {
       "name": "乔乔的奇妙冒险 (USA 990128)",
@@ -534,7 +534,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/jojo.zip",
       "name_en": "JoJo's Venture / JoJo no Kimyou na Bouken (USA 990128)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/JoJo's%20Venture%20_%20JoJo%20no%20Kimyou%20na%20Bouken%20(USA%20981202).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9baa2ddd9f64aacb04036c8f.png"
     },
     {
       "name": "乔乔的奇妙冒险 - 未来遗产 (Japan 990927)",
@@ -554,7 +554,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/jojoba.zip",
       "name_en": "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/JoJo's%20Bizarre%20Adventure_%20Heritage%20for%20the%20Future%20_%20JoJo%20no%20Kimyou%20na%20Bouken_%20Mirai%20e%20no%20Isan%20(Euro%20990913).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/022c37e0ea925a9aac5216b0.png"
     },
     {
       "name": "圆桌骑士 (911127 etc)",
@@ -573,7 +573,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/knights.zip",
       "name_en": "Knights of the Round (911127 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Knights%20of%20the%20Round%20(911127%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/3508418a897eefc4745fd3d1.png"
     },
     {
       "name": "龙王战士 (910805 etc)",
@@ -592,7 +592,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/kod.zip",
       "name_en": "The King of Dragons (910805 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Dragons%20(USA%20910910).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/cd4e91b206cc5f8cd59b2145.png"
     },
     {
       "name": "肌肉爆弹二重奏 - 最终之战 (931206 etc)",
@@ -611,7 +611,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mbombrd.zip",
       "name_en": "Muscle Bomber Duo - ultimate team battle (931206 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Muscle%20Bomber%20Duo%20-%20ultimate%20team%20battle%20(931206%20World).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/524b84b0cf94c1d516a277f5.png"
     },
     {
       "name": "洛克人 - 力量之战 (951006 USA)",
@@ -631,7 +631,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/megaman.zip",
       "name_en": "Mega Man - the power battle (951006 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mega%20Man%20-%20the%20power%20battle%20(951006%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/091ad985189a788cf657ea1a.png"
     },
     {
       "name": "洛克人 2 - 力量对决 (960708 USA)",
@@ -651,7 +651,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/megaman2.zip",
       "name_en": "Mega Man 2 - the power fighters (960708 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mega%20Man%202%20-%20the%20power%20fighters%20(960708%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d0e3f370118c40279cc8c409.png"
     },
     {
       "name": "佣兵 (900302 etc)",
@@ -670,7 +670,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mercs.zip",
       "name_en": "Mercs (900302 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mercs%20(900302%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/f9a4a32ea2ae3b5d0ae9a617.png"
     },
     {
       "name": "火星矩阵 (000412 USA)",
@@ -690,7 +690,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mmatrix.zip",
       "name_en": "Mars Matrix (000412 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mars%20Matrix%20(000412%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/dbc7d482f3c451b336a27183.png"
     },
     {
       "name": "超强气泡 (001010 Euro)",
@@ -710,7 +710,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mpang.zip",
       "name_en": "Mighty! Pang (001010 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mighty!%20Pang%20(001010%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/57182eba1cac314a1dd3989f.png"
     },
     {
       "name": "漫威超级英雄 (951024 Euro)",
@@ -730,7 +730,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/msh.zip",
       "name_en": "Marvel Super Heroes (951024 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Marvel%20Super%20Heroes%20(951024%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/fdb931336487e1ac99cdfc2c.png"
     },
     {
       "name": "漫威超级英雄对街头霸王 (970625 Euro)",
@@ -750,7 +750,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mshvsf.zip",
       "name_en": "Marvel Super Heroes vs Street Fighter (970625 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Marvel%20Super%20Heroes%20Vs.%20Street%20Fighter%20(USA%20970625).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8aa8810219978ca2a9c29473.png"
     },
     {
       "name": "魔法剑 - 英雄的幻想 (25.07.1990 other country)",
@@ -769,7 +769,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/msword.zip",
       "name_en": "Magic Sword - heroic fantasy (25.07.1990 other country)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Magic%20Sword%20-%20heroic%20fantasy%20(25.07.1990%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/678366230c07e51b5e863691.png"
     },
     {
       "name": "双麒儿 (chiki chiki boys 900619 etc)",
@@ -788,7 +788,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/mtwins.zip",
       "name_en": "Mega Twins (chiki chiki boys 900619 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mega%20Twins%20(World%20900619).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/85b83e98bfc02a076be96cb6.png"
     },
     {
       "name": "漫威对卡普空 - 超级英雄的冲突 (980123 Euro)",
@@ -808,7 +808,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/mvsc.zip",
       "name_en": "Marvel vs Capcom - clash of super heroes (980123 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Marvel%20Vs.%20Capcom_%20Clash%20of%20Super%20Heroes%20(USA%20971222).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/90dd99fc96a20d464c08dfa4.png"
     },
     {
       "name": "梦幻冒险 (90 11 30 etc)",
@@ -827,7 +827,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/nemo.zip",
       "name_en": "Nemo (90 11 30 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Nemo%20(World%20901109).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/c6d3fcd4980aca97e3cc1d6f.png"
     },
     {
       "name": "恶魔战士 - 恶魔的复仇 (950316 Euro)",
@@ -847,7 +847,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/nwarr.zip",
       "name_en": "Night Warriors - darkstalkers' revenge (950316 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Night%20Warriors%20-%20darkstalkers'%20revenge%20(950406%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/dabdab4fd2d83276436ebde2.png"
     },
     {
       "name": "魔鬼气泡 3 (950601 Euro)",
@@ -867,7 +867,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/pang3.zip",
       "name_en": "Pang! 3 (950601 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pang!%203%20(950511%20Euro).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9f19105a579dacad0d0e9576.png"
     },
     {
       "name": "超级口袋战士 (970904 Japan)",
@@ -891,7 +891,7 @@
       "parent": "sgemf",
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pfghtj.zip",
       "name_en": "Pocket Fighter (970904 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pocket%20Fighter%20(970904%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0815a0f2d3cba359121ac844.png"
     },
     {
       "name": "核心齿轮 - 战略变异装甲 (941024 Japan)",
@@ -915,7 +915,7 @@
       "parent": "armwar",
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pgear.zip",
       "name_en": "Powered Gear - strategic variant armor equipment (941024 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Powered%20Gear%20-%20strategic%20variant%20armor%20equipment%20(940916%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0d3a5038e7ce2ca75dffb73c.png"
     },
     {
       "name": "魔法方块 (940608 Japan)",
@@ -935,7 +935,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/pnickj.zip",
       "name_en": "Pnickies (940608 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pnickies%20(940608%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/45a04c3b101cefd02dc540d1.png"
     },
     {
       "name": "能源之岚 (010117 USA)",
@@ -955,7 +955,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/progear.zip",
       "name_en": "Progear (010117 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Progear%20(010117%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/add270f26808c1d9e76224f7.png"
     },
     {
       "name": "惩罚者 (930422 etc)",
@@ -974,7 +974,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/punisher.zip",
       "name_en": "The Punisher (930422 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Punisher%20(930422%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8f379b0fcb760002e9a26f95.png"
     },
     {
       "name": "谜球回路 2 (010302 Euro)",
@@ -994,7 +994,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/pzloop2.zip",
       "name_en": "Puzz Loop 2 (010302 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzz%20Loop%202%20(010205%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/1db31cfc6c8d75ae99a9c991.png"
     },
     {
       "name": "龙之迷题 (capcom quiz game 920701 USA)",
@@ -1014,7 +1014,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/qad.zip",
       "name_en": "Quiz & Dragons (capcom quiz game 920701 USA)",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/qad.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/db8e60a6cfd4e1ffddc9c824.png"
     },
     {
       "name": "真实之梦问答 - 虹色町的奇迹 (nanairo dreams 960826 Japan)",
@@ -1034,7 +1034,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/qndream.zip",
       "name_en": "Quiz Nanairo Dreams - nijiirochou no kiseki (nanairo dreams 960826 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Quiz%20Nanairo%20Dreams%20-%20nijiirochou%20no%20kiseki%20(nanairo%20dreams%20960826%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/1ea75fd1609bc60d47eb02bb.png"
     },
     {
       "name": "赤色大地 (Euro 961121)",
@@ -1054,7 +1054,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/redearth.zip",
       "name_en": "Red Earth / War-Zard (Euro 961121)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Red%20Earth%20_%20War-Zard%20(Asia%20961023%2C%20NO%20CD).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/a4d2607f91c081ec605b565b.png"
     },
     {
       "name": "毁坏之环 - 摔角霸王 II (940902 Euro)",
@@ -1074,7 +1074,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ringdest.zip",
       "name_en": "Ring of Destruction - slammasters II (940902 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ring%20of%20Destruction%20-%20slammasters%20II%20(940831%20Asia).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/bce1ce9ec778895ef8221bad.png"
     },
     {
       "name": "洛克人 2 - 力量对决 (960708 Japan)",
@@ -1098,7 +1098,7 @@
       "parent": "megaman2",
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/rockman2j.zip",
       "name_en": "Rockman 2 - the power fighters (960708 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Rockman%202%20-%20the%20power%20fighters%20(960708%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/96105cfe563030d2e812b2a6.png"
     },
     {
       "name": "街头霸王 II - 天下斗士 (910522 etc)",
@@ -1118,7 +1118,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2.zip",
       "name_en": "Street Fighter II - The World Warrior (910522 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20II%20-%20The%20World%20Warrior%20(910129%20World).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6a4b7fb0c9642294369f158d.png"
     },
     {
       "name": "街头霸王 II - 四大天王 (street fighter 2' 920513 etc)",
@@ -1137,7 +1137,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2ce.zip",
       "name_en": "Street Fighter II' - Champion Edition (street fighter 2' 920513 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20II'%20-%20Champion%20Edition%20(920313%20USA%20bootleg%20set%201).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/582ae03f819c842859aac78b.png"
     },
     {
       "name": "街头霸王 II - 战斗宣言 (street fighter 2' T 921209 ETC)",
@@ -1156,7 +1156,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sf2hf.zip",
       "name_en": "Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 ETC)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20II'%20-%20Hyper%20Fighting%20(street%20fighter%202'%20T%20921209%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/96d51124dc3a5510d3730892.png"
     },
     {
       "name": "少年街霸 - 斗士之梦 (950727 Euro)",
@@ -1176,7 +1176,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa.zip",
       "name_en": "Street Fighter Alpha - warriors' dreams (950727 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Alpha%20-%20warriors'%20dreams%20(950627%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/7a15be5c6756cea864cfbaaf.png"
     },
     {
       "name": "少年街霸 2 (960229 Euro)",
@@ -1196,7 +1196,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa2.zip",
       "name_en": "Street Fighter Alpha 2 (960229 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Alpha%202%20(960306%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/62f78cfcd131dbe6ff414263.png"
     },
     {
       "name": "少年街霸 3 (980904 Euro)",
@@ -1216,7 +1216,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sfa3.zip",
       "name_en": "Street Fighter Alpha 3 (980904 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Alpha%203%20(980629%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/0cd61a9a0a6512a186f24576.png"
     },
     {
       "name": "街头霸王 III - 新的时代 (USA 970204)",
@@ -1236,7 +1236,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii.zip",
       "name_en": "Street Fighter III: New Generation (USA 970204)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20III_%20New%20Generation%20(USA%20970204).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/88c2f3bd685391bc4ed07b6d.png"
     },
     {
       "name": "街头霸王 III 二度冲击 - 巨型攻击 (USA 970930)",
@@ -1256,7 +1256,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii2.zip",
       "name_en": "Street Fighter III 2nd Impact: Giant Attack (USA 970930)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20III%202nd%20Impact_%20Giant%20Attack%20(USA%20970930).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/5420b42750c9d10fb1d0899d.png"
     },
     {
       "name": "街头霸王 III 三次攻击 - 未来战斗 (Euro 990608)",
@@ -1276,7 +1276,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS3/sfiii3.zip",
       "name_en": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20III%203rd%20Strike_%20Fight%20for%20the%20Future%20(USA%20990512).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/4f6255566d7e8e1814822db4.png"
     },
     {
       "name": "Street Fighter Zero (CPS Changer, 951020 Japan)",
@@ -1296,7 +1296,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/sfzch.zip",
       "name_en": "Street Fighter Zero (CPS Changer, 951020 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Zero%20(950605%20Asia).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9f7e0f318419f408355e38af.png"
     },
     {
       "name": "超级口袋战士 (970904 USA)",
@@ -1316,7 +1316,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/sgemf.zip",
       "name_en": "Super Gem Fighter Mini Mix (970904 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Gem%20Fighter%20Mini%20Mix%20(970904%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d03cebc79a7007c01df24745.png"
     },
     {
       "name": "摔角霸王 (Slam Masters 930713 etc)",
@@ -1335,7 +1335,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/slammast.zip",
       "name_en": "Saturday Night Slam Masters (Slam Masters 930713 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Saturday%20Night%20Slam%20Masters%20(Slam%20Masters%20930713%20World).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/6717cf544148bb7d313fc32d.png"
     },
     {
       "name": "超级肌肉爆弹 - 劲爆国际 (940831 Japan)",
@@ -1359,7 +1359,7 @@
       "parent": "ringdest",
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/smbomb.zip",
       "name_en": "Super Muscle Bomber - the international blowout (940831 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Muscle%20Bomber%20-%20the%20international%20blowout%20(940808%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/b6abe95fc9063501d8ecccf6.png"
     },
     {
       "name": "超级街霸方块 II 加速版 (Super Puzzle Fighter 2 Turbo 960620 USA)",
@@ -1379,7 +1379,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/spf2t.zip",
       "name_en": "Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 Turbo 960620 USA)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Puzzle%20Fighter%20II%20Turbo%20(Super%20Puzzle%20Fighter%202%20Turbo%20960620%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d9965d3047727f942f7f1154.png"
     },
     {
       "name": "超级街头霸王 II - 新的挑战者 (super street fighter 2 930911 etc)",
@@ -1398,7 +1398,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ssf2.zip",
       "name_en": "Super Street Fighter II - the new challengers (super street fighter 2 930911 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Street%20Fighter%20II%20-%20the%20new%20challengers%20(super%20street%20fighter%202%20930911%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/640a4885cfcb6125f9b4f7d9.png"
     },
     {
       "name": "超级街头霸王 II 加速版 (super street fighter 2 X 940223 etc)",
@@ -1417,7 +1417,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/ssf2t.zip",
       "name_en": "Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Street%20Fighter%20II%20Turbo%20(USA%20940223).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/65e0eb0e9f46cb0c46f226b9.png"
     },
     {
       "name": "出击飞龙 (US set 1)",
@@ -1436,7 +1436,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/strider.zip",
       "name_en": "Strider (US set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Strider%20(USA%2C%20B-Board%2089624B-2).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/99ee7920413c27d91edfb8b3.png"
     },
     {
       "name": "维和部队 (US)",
@@ -1455,7 +1455,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/unsquad.zip",
       "name_en": "U.N. Squadron (US)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/U.N.%20Squadron%20(USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/19547683058cdc1bf30a8392.png"
     },
     {
       "name": "威虎战机 - 雷暴行动 (920714 etc)",
@@ -1474,7 +1474,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/varth.zip",
       "name_en": "Varth - operation thunderstorm (920714 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Varth%20-%20operation%20thunderstorm%20(920612%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/825176306e53868c16581934.png"
     },
     {
       "name": "恶魔猎人 2 - 恶魔的复仇 (970929 Japan)",
@@ -1494,7 +1494,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vhunt2.zip",
       "name_en": "Vampire Hunter 2 - darkstalkers revenge (970929 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Vampire%20Hunter%202%20-%20darkstalkers%20revenge%20(970913%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/ea0f915280045ce65fe6ce5f.png"
     },
     {
       "name": "恶魔救世主 - 吸血鬼贵族 (970519 Euro)",
@@ -1514,7 +1514,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vsav.zip",
       "name_en": "Vampire Savior - the lord of vampire (970519 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Vampire%20Savior%20-%20the%20lord%20of%20vampire%20(970519%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/d4af30ff3320f4ee0b825d3b.png"
     },
     {
       "name": "恶魔救世主 2 - 吸血鬼贵族 (970913 Japan)",
@@ -1534,7 +1534,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/vsav2.zip",
       "name_en": "Vampire Savior 2 - the lord of vampire (970913 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Vampire%20Savior%202%20-%20the%20lord%20of%20vampire%20(970913%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/9a11d2bab8dd06ae921b6882.png"
     },
     {
       "name": "威洛之旅 (US)",
@@ -1553,7 +1553,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/willow.zip",
       "name_en": "Willow (US)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Willow%20(USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/943c91f0014fec7d34dd3c29.png"
     },
     {
       "name": "三国志 II (921031 etc)",
@@ -1572,7 +1572,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS1/wof.zip",
       "name_en": "Warriors of Fate (921031 etc)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Warriors%20of%20Fate%20(921031%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/07df11ca2bb9fcffb010dacc.png"
     },
     {
       "name": "X 战警 - 磁场原子人 (950105 Euro)",
@@ -1595,7 +1595,7 @@
       "source_file_name": "xmcota.zip",
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/xmcota.zip",
       "name_en": "X-Men - children of the atom (950105 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/X-Men%20-%20children%20of%20the%20atom%20(950105%20USA).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/8c5b1c56fd27a171050d1cdd.png"
     },
     {
       "name": "X 战警对街头霸王 (961004 Euro)",
@@ -1615,7 +1615,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-CPS2/xmvsf.zip",
       "name_en": "X-Men vs Street Fighter (961004 Euro)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/X-Men%20Vs.%20Street%20Fighter%20(USA%20960910).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/cb04897d5336f0efd6a2b6d4.png"
     },
     {
       "name": "加油! 马林君 (Marine 2K0411 JPN)",
@@ -1634,7 +1634,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/ganbare.zip",
       "name_en": "Ganbare! Marine Kun (Marine 2K0411 JPN)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ganbare!%20Marine%20Kun%20(Japan%202K0411).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/edaa5a67eac22ba90de366e2.png"
     },
     {
       "name": "雀国志 - 覇王的采牌 (990527 Japan)",
@@ -1654,7 +1654,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/jyangoku.zip",
       "name_en": "Jyangokushi  -Haoh no Saihai- (990527 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Jyangokushi%20%20-Haoh%20no%20Saihai-%20(990527%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/70adbc95bcd819f1b68982a5.png"
     },
     {
       "name": "殿样之野望 2 全国版问答 (tonosama 2 950123 Japan)",
@@ -1674,7 +1674,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/qtono2j.zip",
       "name_en": "Quiz Tonosama no Yabou 2 Zenkoku-ban (tonosama 2 950123 Japan)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Quiz%20Tonosama%20no%20Yabou%202%20Zenkoku-ban%20(tonosama%202%20950123%20Japan).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/1e7bbb7ae08086013237c4ea.png"
     },
     {
       "name": "少年街霸 2 Alpha (960826 Asia)",
@@ -1694,7 +1694,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/sfz2al.zip",
       "name_en": "Street Fighter Zero 2 Alpha (960826 Asia)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Fighter%20Zero%202%20Alpha%20(960805%20Asia).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/arcade-roms/main/screenshots/a302d44254a9a3c057b48f84.png"
     }
   ],
   "dependency_files": [
